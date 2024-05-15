@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  font-size: 60px;
+  font-family: 'gilroy';
+  background-color: grey;
+  width: 100vw;
+  height: 100vh;
+  font-weight: 600;
 }
 
 .App-logo {
