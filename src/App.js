@@ -2,7 +2,7 @@ import "./App.css";
 import "./components/Item";
 import Item from "./components/Item";
 import ItemDate from "./components/ItemDate";
-import Card from "./components/Card"
+import Card from "./components/Card";
 
 function App() {
   const response = [

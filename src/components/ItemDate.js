@@ -11,6 +11,7 @@ function ItemDate(props) {
       <span>{day} </span>
       <span>{month} </span>
       <span>{year}</span>
+      {props.children}
     </div>
   );
 }
